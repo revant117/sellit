@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  contact_name: MyString
+  company_name: MyString
+  deal_title: MyString
+  deal_value: 1.5
+  closing_date: 2016-01-08
+
+two:
+  contact_name: MyString
+  company_name: MyString
+  deal_title: MyString
+  deal_value: 1.5
+  closing_date: 2016-01-08
